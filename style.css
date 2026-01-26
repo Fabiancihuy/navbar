@@ -1,0 +1,6 @@
+.banner {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.027), rgba(0, 0, 0, 0.027) ),url('haha.webp');
+    background-size: cover;
+    background-position: center;
+}
